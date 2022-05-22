@@ -1,0 +1,9 @@
+D:\WORK\C#\winForms\winForms\winForms\bin\Release\winForms.exe.config
+D:\WORK\C#\winForms\winForms\winForms\bin\Release\winForms.exe
+D:\WORK\C#\winForms\winForms\winForms\bin\Release\winForms.pdb
+D:\WORK\C#\winForms\winForms\winForms\obj\Release\winForms.Form1.resources
+D:\WORK\C#\winForms\winForms\winForms\obj\Release\winForms.Properties.Resources.resources
+D:\WORK\C#\winForms\winForms\winForms\obj\Release\winForms.csproj.GenerateResource.cache
+D:\WORK\C#\winForms\winForms\winForms\obj\Release\winForms.csproj.CoreCompileInputs.cache
+D:\WORK\C#\winForms\winForms\winForms\obj\Release\winForms.exe
+D:\WORK\C#\winForms\winForms\winForms\obj\Release\winForms.pdb
