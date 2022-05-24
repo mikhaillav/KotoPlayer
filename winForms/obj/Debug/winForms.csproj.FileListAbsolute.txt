@@ -26,3 +26,4 @@ D:\WORK\C#\winForms\kotoplayer\winForms\bin\Debug\winForms.exe
 D:\WORK\C#\winForms\kotoplayer\winForms\bin\Debug\winForms.pdb
 D:\WORK\C#\winForms\kotoplayer\winForms\bin\Debug\taglib-sharp.dll
 D:\WORK\C#\winForms\kotoplayer\winForms\obj\Debug\winForms.csproj.CopyComplete
+D:\WORK\C#\winForms\kotoplayer\winForms\bin\Debug\Interop.WMPLib.dll
